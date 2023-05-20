@@ -10,7 +10,7 @@ SIFT1B, DEEP1B, Turing1B and SpaceV1B can be acquired from bigann benchmark: htt
 Million-scale dataset SIFT100M, GIST1M can be acquried from http://corpus-texmex.irisa.fr/
 
 Usage:
-See readme file in NeST directory.
+See readme file in BillionScaleSearch directory.
 
 
 
